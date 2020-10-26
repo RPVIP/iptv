@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: -1, iptvs_01
+#EXTINF: -1, iptvs_010
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1,iptvs_1
 https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1021164059.m3u8
