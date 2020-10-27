@@ -3,6 +3,22 @@
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
 #EXTINF:-1,Band [PA]
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 ,hbo
+http://189.91.128.146:5555/udp/227.10.20.94:1234    
+#EXTINF:-1 ,hbo2
+http://189.91.128.146:5555/udp/227.10.20.95:1234    
+#EXTINF:-1 ,hbo+
+http://189.91.128.146:5555/udp/227.10.20.96:1234    
+#EXTINF:-1 ,hbo family
+http://189.91.128.146:5555/udp/227.10.20.97:1234    
+#EXTINF:-1 ,hbo signature
+http://189.91.128.146:5555/udp/227.10.20.98:1234    
+#EXTINF:-1 ,hbo pop
+http://189.91.128.146:5555/udp/227.10.20.99:1234    
+#EXTINF:-1 ,hbo xtreme
+http://189.91.128.146:5555/udp/227.10.20.100:1234   
+#EXTINF:-1 ,globo rj
+http://189.91.128.146:5555/udp/227.10.20.109:1234
 #EXTINF:-1,Band [PA]
 http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
 #EXTINF:-1,Band [SP]
