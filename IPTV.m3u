@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTM3U#
+EXTINF:-1,sbt
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+EXTINF:-1,sbt
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+EXTINF:-1,sbt
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+EXTINF:-1,sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
 #EXTINF:-1,sbt
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
 #EXTINF:-1,MEGAPIX ALTERATIVA
